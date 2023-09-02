@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**caglargokalp/caglargokalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Greetings! I'm Caglar Gokalp, a passionate Frontend Developer with a keen interest in web technologies and user interface design. Here's a bit more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Caglar Gokalp
+Email: caglargokalp35@gmail.com
+LinkedIn: https://www.linkedin.com/in/caglar-gokalp-548861286/
+
+
+Technologies
+Below, you'll find some of the technologies and tools I love to work with or have experience in:
+
+HTML5, CSS3, JavaScript
+React.js
+Git and GitHub
+VS Code, Sublime Text
+Sass UI/UX Design
+
+Responsive Web Design
